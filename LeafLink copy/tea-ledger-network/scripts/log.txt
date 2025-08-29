@@ -1,0 +1,1 @@
+[31m2025-07-20 18:20:11.563 +0530 0001 ERRO[0m [main] [31;1mInitCmd[0m -> Fatal error when initializing core config : error when reading core config file: Config File "core" Not Found in "[/Users/jayanithyamadhushani/Documents/Project/LeafLink/tea-ledger-network/scripts]"
