@@ -1,0 +1,7 @@
+Description,Chaincode,ResponseTime(seconds)
+Critical Transaction - Original Raft,teasupplychain,.106909000
+Critical Transaction - Original Raft,teasupplychain,.036423000
+Critical Transaction - Hybrid PBFT,teasupplychain-hybrid,.033393000
+Critical Transaction - Hybrid PBFT,teasupplychain-hybrid,.034433000
+Regular Transaction - Original Raft,teasupplychain,.033480000
+Regular Transaction - Hybrid PBFT,teasupplychain-hybrid,.035399000
